@@ -16,6 +16,7 @@ This repository contains the assignments for the **Introduction to Python I** co
   - [Assignment 5](#assignment-5)
   - [Assignment 6](#assignment-6)
   - [Assignment 7](#assignment-7)
+  - [Assignment 8](#assignment-8)
 - [Interpretations and Learnings](#interpretations-and-learnings)
 
 ## General Description
@@ -91,6 +92,14 @@ Throughout the assignments, various Python libraries were used to facilitate dat
   - Utilize lambda functions and mapping techniques.
   - Explore Pandas series.
   - Perform data transformations and manage missing data.
+
+### Assignment 8
+- **File**: `ENTREGA 8.ipynb`
+- **Description**: This session introduces Matplotlib and Seaborn, two key libraries for data visualization in Python. It focuses on fundamental plotting techniques and customization to create professional-quality visuals.
+- **Objectives**:
+  - Understand and use Matplotlib for creating various types of plots.
+  - Leverage Seaborn for enhanced statistical visualizations.
+  - Customize plots with titles, labels, legends, and color schemes.
 
 ## Interpretations and Learnings
 While developing each assignment, I interpreted and applied key Python concepts, such as data manipulation, use of functions, and control structures. Some of the main learnings include:
